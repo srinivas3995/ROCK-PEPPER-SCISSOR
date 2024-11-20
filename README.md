@@ -1,4 +1,4 @@
-# ROCK-PEPPER-SCISSOR
+# ROCK-PAPER-SCISSOR
 from random import randint
 
 
